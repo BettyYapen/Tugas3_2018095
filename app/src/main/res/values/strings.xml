@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string name="deskription">deskription_menu</string>
+    <string name="ingredients">ingredients</string>
+    <string name="Keunggulan">Resep</string>
+    <string name="price">price</string>
+    <string name="Harga_Xiaomi">Harga SmartPhone</string>
+</resources>
